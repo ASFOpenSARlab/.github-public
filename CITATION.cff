@@ -1,0 +1,32 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: OpenScienceLab
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - name: Alaska Satellite Facility
+    country: US
+    email: 'uso@asf.alaska.edu'
+    website: 'https://asf.alaska.edu'
+  - name: University of Alaska Fairbanks
+    website: 'https://ror.org/01j7nq853'
+repository-code: 'https://github.com/ASFOpenSARlab'
+url: 'https://opensciencelab.asf.alaska.edu'
+abstract: >-
+  OpenScienceLab is a customized JupyterHub ecosystem
+  developed by the Alaska Satellite Facility (ASF) and
+  primarily used for Synthetic Aperture Radar (SAR) research
+  and teaching.
+keywords:
+  - JupyterHub
+  - Jupyter Book
+  - Synthetic Aperture Radar
+  - Alaska Satellite Facility
+  - ASF
+  - NISAR
+  - Remote Sensing
+license: BSD-3-Clause
