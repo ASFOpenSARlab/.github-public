@@ -1,0 +1,28 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: OpenScienceLab
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - name: "OpenScienceLab Team, Alaska Satellite Facility, University of Alaska Fairbanks"
+    email: "uaf-jupyterhub-asf@alaska.edu"
+    website: "https://ror.org/01j7nq853"
+repository-code: 'https://github.com/ASFOpenSARlab'
+url: 'https://opensciencelab.asf.alaska.edu'
+abstract: >-
+  This is a central citation record for the OpenScienceLab software ecosystem. 
+  Use this metadata to credit the overarching platform, data recipes, and 
+  environments when a repository-specific citation file is unavailable.
+keywords:
+  - JupyterHub
+  - Jupyter Book
+  - Synthetic Aperture Radar
+  - Alaska Satellite Facility
+  - ASF
+  - NISAR
+  - Remote Sensing
+license: BSD-3-Clause
