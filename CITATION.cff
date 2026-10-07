@@ -8,17 +8,15 @@ message: >-
   metadata from this file.
 type: software
 authors:
-  - name: Alaska Satellite Facility OpenScienceLab Team
-    country: US
-    email: 'uaf-jupyterhub-asf@alaska.edu'
-    website: 'https://ror.org/01j7nq853'
+  - name: "OpenScienceLab Team, Alaska Satellite Facility, University of Alaska Fairbanks"
+    email: "uaf-jupyterhub-asf@alaska.edu"
+    website: "https://ror.org/01j7nq853"
 repository-code: 'https://github.com/ASFOpenSARlab'
 url: 'https://opensciencelab.asf.alaska.edu'
 abstract: >-
-  OpenScienceLab is a customized JupyterHub ecosystem
-  developed by the Alaska Satellite Facility (ASF) and
-  primarily used for Synthetic Aperture Radar (SAR) research
-  and teaching.
+  This is a central citation record for the OpenScienceLab software ecosystem. 
+  Use this metadata to credit the overarching platform, data recipes, and 
+  environments when a repository-specific citation file is unavailable.
 keywords:
   - JupyterHub
   - Jupyter Book
